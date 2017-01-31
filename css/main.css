@@ -5,3 +5,21 @@ html {
 section {
   background-image: linear-gradient(#ff9500, #ff5e3a);
 }
+
+h1 {
+  color: #fff;
+}
+
+li:first-child
+li:nth-child(2) {
+  border-bottom: 3px solid rgba(255, 255, 255, .5);
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.icon {
+  color: #fff;
+}
